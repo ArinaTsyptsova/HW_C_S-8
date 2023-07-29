@@ -1,0 +1,15 @@
+C:\GB\Homework_8\Task_54\bin\Debug\net6.0\Task_54.exe
+C:\GB\Homework_8\Task_54\bin\Debug\net6.0\Task_54.deps.json
+C:\GB\Homework_8\Task_54\bin\Debug\net6.0\Task_54.runtimeconfig.json
+C:\GB\Homework_8\Task_54\bin\Debug\net6.0\Task_54.dll
+C:\GB\Homework_8\Task_54\bin\Debug\net6.0\Task_54.pdb
+C:\GB\Homework_8\Task_54\obj\Debug\net6.0\Task_54.csproj.AssemblyReference.cache
+C:\GB\Homework_8\Task_54\obj\Debug\net6.0\Task_54.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Homework_8\Task_54\obj\Debug\net6.0\Task_54.AssemblyInfoInputs.cache
+C:\GB\Homework_8\Task_54\obj\Debug\net6.0\Task_54.AssemblyInfo.cs
+C:\GB\Homework_8\Task_54\obj\Debug\net6.0\Task_54.csproj.CoreCompileInputs.cache
+C:\GB\Homework_8\Task_54\obj\Debug\net6.0\Task_54.dll
+C:\GB\Homework_8\Task_54\obj\Debug\net6.0\refint\Task_54.dll
+C:\GB\Homework_8\Task_54\obj\Debug\net6.0\Task_54.pdb
+C:\GB\Homework_8\Task_54\obj\Debug\net6.0\Task_54.genruntimeconfig.cache
+C:\GB\Homework_8\Task_54\obj\Debug\net6.0\ref\Task_54.dll
