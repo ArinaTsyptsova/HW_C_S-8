@@ -31,7 +31,6 @@ int[,,] GetCreate3DArray(int field, int rows, int columns)
         {
             for (int z = 0; z < columns; z++)
             {
-                // array[x, y, z] = new Random().Next(1, 100);
                 array[x, y, z] += count;
                 count += 15;
             }
