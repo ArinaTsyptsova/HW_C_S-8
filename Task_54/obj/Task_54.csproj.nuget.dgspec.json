@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GB\\Homework_8\\Task_54\\Task_54.csproj": {}
+    "c:\\GB\\Homework_8\\Task_54\\Task_54.csproj": {}
   },
   "projects": {
-    "C:\\GB\\Homework_8\\Task_54\\Task_54.csproj": {
+    "c:\\GB\\Homework_8\\Task_54\\Task_54.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GB\\Homework_8\\Task_54\\Task_54.csproj",
+        "projectUniqueName": "c:\\GB\\Homework_8\\Task_54\\Task_54.csproj",
         "projectName": "Task_54",
-        "projectPath": "C:\\GB\\Homework_8\\Task_54\\Task_54.csproj",
+        "projectPath": "c:\\GB\\Homework_8\\Task_54\\Task_54.csproj",
         "packagesPath": "C:\\Users\\Арина\\.nuget\\packages\\",
-        "outputPath": "C:\\GB\\Homework_8\\Task_54\\obj\\",
+        "outputPath": "c:\\GB\\Homework_8\\Task_54\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Арина\\AppData\\Roaming\\NuGet\\NuGet.Config"
